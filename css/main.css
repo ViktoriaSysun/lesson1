@@ -1,0 +1,12 @@
+p {
+    color: green; background: aliceblue;
+}
+h2 {
+    color: blue; background: greenyellow;
+}
+ul {
+    color: crimson; background: greenyellow;
+}
+img {
+    width: 200px; height: auto;
+}
